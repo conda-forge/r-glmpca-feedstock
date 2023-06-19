@@ -1,11 +1,11 @@
-About r-glmpca
-==============
+About r-glmpca-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-glmpca-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/willtownes/glmpca
 
 Package license: Artistic-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-glmpca-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements a generalized version of principal components analysis (GLM-PCA) for dimension reduction of non-normally distributed data such as counts or binary matrices. Townes FW, Hicks SC, Aryee MJ, Irizarry RA (2019) <doi:10.1101/574574>. Townes FW (2019) <arXiv:1907.02647>.
 
